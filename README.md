@@ -21,8 +21,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://www.memedroid.com/" width="512px"/>
-
 <img src='https://www.memedroid.com/memes/tag/programming'>
 
 ---
