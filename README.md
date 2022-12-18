@@ -23,7 +23,7 @@
 ### 😂 Random Dev Meme
 <img src="https://www.memedroid.com/" width="512px"/>
 
-<img src='https://www.memedroid.com/memes/tag/programming' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src='https://www.memedroid.com/memes/tag/programming'>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GoekmenKiyan&icon=3&color=6)](https://visitcount.itsvg.in)
