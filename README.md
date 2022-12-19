@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 🔭 Student @ FH Campus Wien<br>🌱 I’m currently learning Java<br>⚡ I have no clue what i'm doing ...
 
