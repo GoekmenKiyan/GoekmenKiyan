@@ -18,9 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src='[https://raw.githubusercontent.com/deep5050/programming-memes/main/memes/1/1517.png)'>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=GoekmenKiyan&icon=3&color=6)](https://visitcount.itsvg.in)
 
