@@ -21,4 +21,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=GoekmenKiyan&icon=3&color=6)](https://visitcount.itsvg.in)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mrarili&unique={true|1|on|yes})
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
