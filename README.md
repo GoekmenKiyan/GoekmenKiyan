@@ -15,12 +15,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GoekmenKiyan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## Music
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrarili&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GoekmenKiyan&icon=3&color=6)](https://visitcount.itsvg.in)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mrarili&unique={true|1|on|yes})
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
