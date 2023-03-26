@@ -60,16 +60,14 @@
 ###
 
 ## 🎵 Music
-<div align="center">
+< align="center">
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrarili&cover_image=true&theme=default&show_offline=false&background_color=1a1919&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-   />
-  </div>
 
 ###
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GoekmenKiyan&icon=3&color=6)](https://visitcount.itsvg.in)
