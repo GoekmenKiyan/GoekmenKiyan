@@ -20,7 +20,9 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrarili&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GoekmenKiyan&icon=3&color=6)](https://visitcount.itsvg.in)
