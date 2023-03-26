@@ -1,5 +1,5 @@
-# 💫 About Me: <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 50px height='50px'>
-🔭 Student @ FH Campus Wien<br>🌱 I’m currently learning Java<br>⚡ I have no clue what i'm doing ...
+# 💫 About Me:
+🔭 Student @ FH Campus Wien<br>🌱 I’m currently learning Java<br>⚡ I have no clue what i'm doing ... <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
 
 
 ## 🌐 Socials:
