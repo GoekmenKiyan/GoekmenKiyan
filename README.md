@@ -46,13 +46,6 @@
 </p>
 </details>
 
-<p align="center">
-  <a href="https://github.com/GoekmenKiyan">
-    <img src="https://komarev.com/ghpvc/?username=GoekmenKiyan&color=blue&style=flat)" />
-  </a>
-</p>
-<!--
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
