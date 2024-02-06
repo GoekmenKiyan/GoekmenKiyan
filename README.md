@@ -1,61 +1,38 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hi 👋 I'm Gökmen Kiyan</h1>
 
-<p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm a Student @ FH Campus Wien<br>
-        <br>
-        I'm currently learning Java and C.<br>
-    </i><br>
-    <a href="https://www.linkedin.com/in/g%C3%B6kmen-kiyan-4b9a32280/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="mailto:goekmen.kiyan@hotmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
-    </a>
-</p>
+# 💫 About Me:
+Hello, I'm Gökmen Kiyan, a passionate 21-year-old Computer Science Student currently pursuing my bachelors degree at FH Campus Wien.
 
-### Languages
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/GoekmenKiyan)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/GoekmenKiyan)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/GoekmenKiyan)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/GoekmenKiyan)
+I'm passionate about exploring the realms of coding, web development, and building robust applications.
 
-### Technologies & Frameworks
-[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/GoekmenKiyan)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/GoekmenKiyan)
+## 🚀 What I'm Up To
 
-### OS
-[![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=Mac)](https://github.com/GoekmenKiyan)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/GoekmenKiyan)
+- 💻 Building Webpages with React and Tailwind
+- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 
-<details>
-<p align="center">
-  <a href="https://github.com/GoekmenKiyan">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GoekmenKiyan&theme=transparent" />
-  </a>
-  <a href="https://github.com/wervlad">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoekmenKiyan&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/wervlad">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GoekmenKiyan&theme=transparent" />
-  </a>
-</p>
-</details>
+Check out my [coding portfolio!](https://goekmenkiyan.at)
 
-<p align="center">
-  <a href="https://github.com/GoekmenKiyan">
-    <img src="https://komarev.com/ghpvc/?username=GoekmenKiyan&color=blue&style=flat)" />
-  </a>
-</p>
-<!--
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goekmen-kiyan/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+Languages: 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+Developer Tools: 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+Libraries/Frameworks: 
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
